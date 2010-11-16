@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 10 15:06:31 COT 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ARMonkeyEngine.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|ARMonkeyEngine>~arme/~tools/;<po|ARToolkitPlus>;<po|jme2>;<jar|gluegen-rt.jar>;<jar|jogl.jar>;<jar|jorbis-0.0.17.jar>;<jar|junit-4.1.jar>;<jar|jinput.jar>;<jar|lwjgl_util_applet.jar>;<jar|lwjgl_util.jar>;<jar|lwjgl.jar>;<jar|jme-colladabinding.jar>;<jar|swt.jar>
+includes=

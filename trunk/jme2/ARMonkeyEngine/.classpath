@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="core"/>
+	<classpathentry kind="src" path="video"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jme/jme-audio.jar"/>
+	<classpathentry kind="lib" path="lib/jme/jme.jar"/>
+	<classpathentry kind="lib" path="lib/jme/jme-awt.jar"/>
+	<classpathentry kind="lib" path="lib/jme/jme-model.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
