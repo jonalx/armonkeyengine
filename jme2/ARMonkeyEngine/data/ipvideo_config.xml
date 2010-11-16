@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IPVideo Configuration File -->
+<ipvideo>
+	<input url="http://190.15.29.156/mjpg/video.mjpg?resolution=640x480" mjpg="true" >
+		<resolution width="640" height="480" />
+	</input>
+</ipvideo>
