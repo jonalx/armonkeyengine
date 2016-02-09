@@ -1,0 +1,2 @@
+Este proyecto provee un Framework para el desarrollo de aplicaciones con Realidad Aumentada usando Java.<br />
+Este framework hace uso de ARToolkitPlus para el tracking de marcadores por ID y templates y  uso del motor gráfico jMonkeyEngine 2.0 para el render. (Pronto jME3)
